@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👑 KING DYLAN
+#  KING DYLAN
 
 ### `FULL-STACK DEVELOPER.exe`
 
@@ -51,5 +51,33 @@ Movie website project.
 ### `END OF TRANSMISSION`
 
 **KING DYLAN © 2026**
+
+</div>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=k1ngdilan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=k1ngdilan&theme=radical&hide_border=true" width="48%" />
+
+</div>
+
+## 👁️ PROFILE VISITORS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=k1ngdilan&label=PROFILE+VIEWS&color=gold&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+**⚡ KING DYLAN | BUILDING THE FUTURE ⚡**
 
 </div>
