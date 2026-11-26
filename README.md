@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**k1ngdilan/k1ngdilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👑 KING DYLAN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `FULL-STACK DEVELOPER.exe`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D6A52C&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world;Building+the+future+with+code;Learning+%7C+Creating+%7C+Innovating" />
+
+**📍 Kigali, Rwanda**
+
+</div>
+
+---
+
+## 🖥️ ABOUT ME
+
+```javascript
+const kingDylan = {
+  name: "KING DYLAN",
+  username: "k1ngdilan",
+  location: "Kigali, Rwanda",
+  role: "Developer",
+  interests: [
+    "Web Development",
+    "Artificial Intelligence",
+    "Software Engineering"
+  ],
+  motto: "Turning ideas into reality with code."
+};
+```
+
+## ⚡ TECHNOLOGIES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,github,git" />
+</p>
+
+## 🚀 FEATURED PROJECTS
+
+### ☁️ CLOUD AI
+AI website project.
+
+### 🎬 NEWMV+
+Movie website project.
+
+---
+
+<div align="center">
+
+### `END OF TRANSMISSION`
+
+**KING DYLAN © 2026**
+
+</div>
