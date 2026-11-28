@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="king-dylan-banner.png" width="100%">
+</div>
 <div align="center">
 
 #  KING DYLAN
